@@ -10,9 +10,6 @@
   <a href="#" target="_blank">
     <img alt="License: (MIT)" src="https://img.shields.io/github/license/robelandro/ESP32 with Node js" />
   </a>
-  <a href="https://twitter.com/https:\/\/twitter.com\/NftalemArega" target="_blank">
-    <img alt="Twitter: https:\/\/twitter.com\/NftalemArega" src="https://img.shields.io/twitter/follow/https:\/\/twitter.com\/NftalemArega.svg?style=social" />
-  </a>
 </p>
 
 > Send and recive data between ESP32 and Node js using websocket json
