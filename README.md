@@ -39,9 +39,9 @@ npm run test
 👤 **Robel Pop**
 
 * Website: nftalem.tech
-* Twitter: [@https:\/\/twitter.com\/NftalemArega](https://twitter.com/https:\/\/twitter.com\/NftalemArega)
+* Twitter: [@https:\/\/twitter.com\/NftalemArega](https://twitter.com\/NftalemArega)
 * Github: [@robelandro](https://github.com/robelandro)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/nftalem-arega-8a40581a3\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/nftalem-arega-8a40581a3\/)
+* LinkedIn: [@https:\/\/www.linkedin.com\/in\/nftalem-arega-8a40581a3\/](https://linkedin.com/in\/nftalem-arega-8a40581a3\/)
 
 ## 🤝 Contributing
 
